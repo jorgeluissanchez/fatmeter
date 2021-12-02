@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Quicksand:wght@300;500&display=swap');
+.contenedor {
+	min-height: 100vh;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+}
+.titulo {
+    font-family: 'Bungee Shade', cursive;
+    color: #22211d;
+}
+
+.formulario {
+    margin: auto;
+    min-height: 100vh;
+	min-width: 350px;
+    width: 600px;
+	border-radius: 25px;
+	padding: 20px;
+	box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 4px;
+    background-color: rgb(255 255 255);
+}
